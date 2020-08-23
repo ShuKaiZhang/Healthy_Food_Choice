@@ -1,0 +1,27 @@
+= Veggie Lite change log =
+
+Version 1.2.6 - October 23, 2019
+- added Copyright settings inside the Customizer
+
+Version 1.2.5 - November 19, 2018
+- improved support for the new WordPress editor
+
+Version 1.2.4 - August 3, 2018
+- added basic support for the new WordPress editor
+
+Version 1.2.3 - May 24, 2018
+- support for the new 4.9.6 WordPress changes regarding GDPR
+
+Version 1.2.2 - October 9, 2017
+- custom Logo option deprecated and added to core Site Identity section inside the Customizer
+- added new options inside the Customizer - hide post author and date from posts
+
+Version 1.2.1 - April 17, 2017
+- new .pot file
+- new blank page template for the page builders
+Version 1.2 - December 29, 2016
+- from WordPress 4.7 Customizer “Custom CSS” section migrated to the core Customizer section called “Additional CSS” - changes inside the inc folder “customizer.php” file
+Version 1.1 - July 5, 2016
+-new .pot file inside the languages folder
+Version 1.0.7 - March 19, 2016
+-fix for the search page (continue reading) - changes inside the style.css and functions.php files

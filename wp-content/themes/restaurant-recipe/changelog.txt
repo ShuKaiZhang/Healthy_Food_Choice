@@ -1,0 +1,26 @@
+== Change log ==
+
+= 3.0.0 - Aug 04 2020 =
+* Added   : Advanced Demo Import
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Updated : Keyboard navigation
+* Updated : Style.css header
+* Updated : New Theme Check Info
+* Fixed : Customizer Repeater
+
+= 2.0.1 - Oct 16 2019=
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wp-config.xml file for translation
+* Added : Upgrade to pro
+* Fixed : Screen Reader Text
+
+= 2.0.0 - June 17 2019 =
+* Added : Gutenberg Ready
+* Added : Language file
+* Fixed : RTL CSS
+* Fixed : Space before DOCTYPE
+
+= 1.0.0 =
+* Submitted on WordPress dot org
